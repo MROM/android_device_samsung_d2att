@@ -10,5 +10,5 @@ ro.telephony.ril_class=SamsungQualcommD2RIL
 telephony.lteOnGsmDevice=1
 
 # Default theme
-persist.sys.themeId=Cobalt Inferno
-persist.sys.themePackageName=com.dustinb.theme.cobaltinferno
+persist.sys.themeId=CyanOrangen Cobalt
+persist.sys.themePackageName=com.dustinb.theme.cyanorangencobalt
